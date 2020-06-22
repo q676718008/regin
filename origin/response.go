@@ -2,7 +2,7 @@ package origin
 
 import (
 	"github.com/gin-gonic/gin"
-	"regin/base"
+	"github.com/q676718008/regin/base"
 )
 
 type ResponseHandler struct {

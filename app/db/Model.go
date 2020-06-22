@@ -1,8 +1,8 @@
 package db
 
 import (
-	"regin/app/db/query"
-	"regin/base"
+	"github.com/q676718008/regin/app/db/query"
+	"github.com/q676718008/regin/base"
 )
 
 /**************************************** 数据库模型接口 ****************************************/

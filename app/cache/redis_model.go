@@ -2,7 +2,7 @@ package cache
 
 import (
 	"github.com/garyburd/redigo/redis"
-	"regin/base"
+	"github.com/q676718008/regin/base"
 )
 
 type RedisInterface interface {

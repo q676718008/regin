@@ -1,6 +1,6 @@
 package base
 
-import "regin/utils"
+import "github.com/q676718008/regin/utils"
 
 // 获取json
 func JsonResult() *Result {

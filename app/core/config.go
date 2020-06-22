@@ -1,8 +1,8 @@
 package core
 
 import (
-	"regin/base"
-	"regin/utils"
+	"github.com/q676718008/regin/base"
+	"github.com/q676718008/regin/utils"
 	"strings"
 	"strconv"
 )

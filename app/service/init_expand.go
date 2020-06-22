@@ -1,8 +1,8 @@
 package service
 
 import (
-	"regin/app/cache"
-	"regin/app/db"
+	"github.com/q676718008/regin/app/cache"
+	"github.com/q676718008/regin/app/db"
 )
 
 // 初始化扩展包

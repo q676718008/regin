@@ -1,7 +1,7 @@
 package utils
 
 import (
-	"regin/utils/config_parser"
+	"github.com/q676718008/regin/utils/config_parser"
 	"strconv"
 )
 

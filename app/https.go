@@ -1,6 +1,6 @@
 package app
 
-import "regin/base"
+import "github.com/q676718008/regin/base"
 
 type Https struct {
 	base.WebServer

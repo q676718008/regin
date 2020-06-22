@@ -1,7 +1,7 @@
 package service
 
 import (
-	"regin/utils"
+	"github.com/q676718008/regin/utils"
 	"os"
 	"strings"
 )

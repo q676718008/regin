@@ -1,9 +1,9 @@
 package app
 
 import (
-	"regin/app/service"
-	"regin/base"
-	"regin/utils"
+	"github.com/q676718008/regin/app/service"
+	"github.com/q676718008/regin/base"
+	"github.com/q676718008/regin/utils"
 	"runtime"
 	"errors"
 )

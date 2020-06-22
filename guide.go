@@ -1,8 +1,8 @@
 package regin
 
 import (
-	"regin/origin"
-	"regin/app"
+	"github.com/q676718008/regin/origin"
+	"github.com/q676718008/regin/app"
 )
 
 type Guider struct{}

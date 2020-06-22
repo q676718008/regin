@@ -3,7 +3,7 @@ package db
 import (
 	"database/sql"
 	_ "github.com/go-sql-driver/mysql"
-	"regin/app/db/query"
+	"github.com/q676718008/regin/app/db/query"
 	"strconv"
 	"errors"
 	"strings"

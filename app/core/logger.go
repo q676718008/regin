@@ -1,7 +1,7 @@
 package core
 
 import (
-	"regin/utils"
+	"github.com/q676718008/regin/utils"
 	"fmt"
 )
 

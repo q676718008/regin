@@ -1,6 +1,6 @@
 package base
 
-import "regin/utils"
+import "github.com/q676718008/regin/utils"
 
 /**************************************** 自定义函数类型 UserFunc ****************************************/
 type UserFunc func(args ...interface{}) interface{}

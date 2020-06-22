@@ -1,8 +1,8 @@
 package service
 
 import (
-	"regin/base"
-	"regin/app/core"
+	"github.com/q676718008/regin/base"
+	"github.com/q676718008/regin/app/core"
 )
 
 type Application struct {

@@ -3,7 +3,7 @@ package origin
 import (
 	"github.com/gin-gonic/gin"
 	"github.com/unrolled/secure"
-	"regin/base"
+	"github.com/q676718008/regin/base"
 )
 
 type EngineDispatcher struct {
